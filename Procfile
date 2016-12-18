@@ -1,1 +1,1 @@
-web: gunicorn karansheth.wegi --log-file -
+web: gunicorn karansheth.wsgi --log-file -
