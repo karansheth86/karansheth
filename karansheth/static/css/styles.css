@@ -1,7 +1,28 @@
 body {
 	font-family: "Times New Roman", Times, serif;
+	font-size: 1.5em;
 }
 
-table {
-	width: 100%
+h1, h2, h3, h4, h5 {
+	font-weight: bold;
+}
+
+.header {
+	text-align: center;
+}
+
+.institution {
+	text-align: left;
+	font-size: 1.17em;
+	font-weight: bold;
+}
+
+.project {
+	text-align: left;
+	font-weight: bold;
+}
+
+.technology {
+	text-align: right;
+	font-weight: bold;
 }
